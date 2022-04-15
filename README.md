@@ -15,6 +15,8 @@
 
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
+- - [Download Jupyter Notebook Document for Web Scraping - Beautiful Soup (Champions League Football)](https://nbviewer.org/github/abdrauf26/web_scraping_repo/blob/main/Champions_league_football_news.ipynb)
+
 - [Download Jupyter Notebook Document for Web Scraping - Beautiful Soup (Singapore Towns)](http://nbviewer.org/github/abdrauf26/web_scraping_repo/blob/main/Singapore_towns.ipynb)
 
 
