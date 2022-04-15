@@ -18,7 +18,7 @@
 - [Download Jupyter Notebook Document for Web Scraping - Beautiful Soup (Singapore Towns)](http://nbviewer.org/github/abdrauf26/web_scraping_repo/blob/main/Singapore_towns.ipynb)
 
 
-## Contact 📧 
+## Social 📧 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abdrauf26/) [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)](https://public.tableau.com/app/profile/mohamed.abdul.rauf) [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/abdrauf26) [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@rauf.yusope) 
 
