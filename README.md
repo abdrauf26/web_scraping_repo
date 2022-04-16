@@ -36,6 +36,7 @@
 - [Github](https://github.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Jupyter nbviewer](https://nbviewer.org/)
+- [UEFA.com](https://www.uefa.com/uefachampionsleague/)
 - Badges - https://badges.pages.dev/
 - Badges - https://naereen.github.io/badges/
 - Badges - https://github.com/Ileriayo/markdown-badges#-office
