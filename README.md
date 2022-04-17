@@ -17,7 +17,7 @@
 
 - [Download Jupyter Notebook Document for Web Scraping - Beautiful Soup (Champions League Football News)](https://github.com/abdrauf26/web_scraping_repo/blob/main/Champions_League_Football_News.ipynb)
 
-- [Download Jupyter Notebook Document for Web Scraping - Beautiful Soup (Singapore Towns)](http://nbviewer.org/github/abdrauf26/web_scraping_repo/blob/main/Singapore_towns.ipynb)
+- [Download Jupyter Notebook Document for Web Scraping - Beautiful Soup (Singapore Towns)](https://github.com/abdrauf26/web_scraping_repo/blob/main/Singapore_Towns.ipynb)
 
 
 ## Social 📧 
